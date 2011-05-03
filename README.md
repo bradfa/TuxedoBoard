@@ -12,8 +12,8 @@ that require closed source compilers.
 ## Technical Requirements
 * Run Linux.
 * Boot from an SD card (MMC).
-* Interface with existing hardware accessories, such as Arduino shields.
+* Interface with external hardware accessories via USB or headers.
 * Have Ethernet.
-* Have USB, preferrably USB 2.0.
+* Have USB.
 * Address at least 256 MB of RAM (even if shipping boards have less).
 * A real serial port UART (DB9 style).
